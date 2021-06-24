@@ -1,0 +1,3 @@
+C:/Users/LS/CLionProjects/factotial_de_un_entero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LS/CLionProjects/factotial_de_un_entero/cmake-build-debug/CMakeFiles/factotial_de_un_entero.dir
+C:/Users/LS/CLionProjects/factotial_de_un_entero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

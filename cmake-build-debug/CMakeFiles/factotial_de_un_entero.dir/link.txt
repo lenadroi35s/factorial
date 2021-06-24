@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\factotial_de_un_entero.dir/objects.a
+C:\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\factotial_de_un_entero.dir/objects.a @CMakeFiles\factotial_de_un_entero.dir\objects1.rsp
+C:\Mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\factotial_de_un_entero.dir/objects.a -Wl,--no-whole-archive -o factotial_de_un_entero.exe -Wl,--out-implib,libfactotial_de_un_entero.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\factotial_de_un_entero.dir\linklibs.rsp
